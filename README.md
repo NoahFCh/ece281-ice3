@@ -7,7 +7,11 @@
 Targeted toward Digilent Basys3. Make sure to install the [board files](https://github.com/Xilinx/XilinxBoardStore/tree/2018.2/boards/Digilent/basys3).
 
 Tested on Vivado 2018.2.
+## Documentation
 
+Received help from C3C Joel Bryant in modifying the top_basys3 test bench. He helped with reading the provided truth table correctly for the assert statements and properly creating the component
+
+![waveform](221548.png)
 ---
 
 ## GitHub Actions Testbench
